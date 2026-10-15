@@ -1,4 +1,4 @@
-[cybersecurity_linux_masterclass_command_arsenal.md](https://github.com/user-attachments/files/33502416/cybersecurity_linux_masterclass_command_arsenal.md)
+
 # 🛡️ Ultimate Linux Cybersecurity & Forensics Masterclass
 
 <p align="center">
